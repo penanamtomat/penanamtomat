@@ -1,4 +1,9 @@
-### Hi there 👋
+# Dimas Maulana Rizky
+
+## Short Description
+
+I'm basically a beginner. I'm trying to explore more about my interest in software and security. So, relax and enjoy!
+
 
 <!--
 **penanamtomat/penanamtomat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
