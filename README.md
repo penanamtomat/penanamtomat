@@ -2,7 +2,7 @@
 
 ## Short Description
 
-I'm basically a beginner. I'm trying to explore more about my interest in software and security. So, relax and enjoy!
+I'm basically a beginner. I'm trying to explore more about my interest in software, IoT and security. So, relax and enjoy!
 
 
 <!--
